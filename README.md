@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @SpyridonLaz
+- 👋 Hi, I’m @SpyridonLaz . Junior developer 4 hire. 
 - 👀 I’m interested in ... automation, backend development, AI. 
 - 🌱 I’m currently learning ... Python Django +SQL. 
-- 💞️ I’m looking to collaborate on ... Open source projects
+
+- 💞️ I’m looking to collaborate on ... Open source projects. 
 - 📫 How to reach me ... lazanas.spy@gmail.com. 
 
 <!---
